@@ -1,6 +1,11 @@
 #include<stdio.h>
 #include<stdlib.h>
 #include"List.h"
+
+/*
+	ÓÐÍ·Á´±í
+*/
+
 int main()
 {
 	List* list = createList();

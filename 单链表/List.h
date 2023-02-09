@@ -24,7 +24,6 @@ Node* createNode(Data data);
 typedef struct list
 {
 	int size;
-
 	//Á´±í±íÍ·
 	Node* head;
 }List;
